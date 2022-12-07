@@ -6,5 +6,3 @@ export const store = configureStore({
     messages: messagesReducer,
   },
 });
-
-// export default store;
